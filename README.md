@@ -11,7 +11,6 @@ The decentralized nature of the platform ensures the security of all financial t
 Deployment Link - https://raise-wise.vercel.app/
 <br>
 
-<img width="743" alt="Screenshot 2024-11-17 at 12 26 11 PM" src="https://github.com/user-attachments/assets/be58914c-5f72-4beb-b05f-a1b7caf21798">
 <img width="1470" alt="Screenshot 2024-11-18 at 3 44 07 PM" src="https://github.com/user-attachments/assets/c4be9a31-1681-4d78-907d-0196d8d9960d">
 <img width="1470" alt="Screenshot 2024-11-18 at 3 44 57 PM" src="https://github.com/user-attachments/assets/6d122d6b-0517-44ce-bdd4-8a073937bc4e">
 <img width="1470" alt="Screenshot 2024-11-18 at 3 37 20 PM" src="https://github.com/user-attachments/assets/31f49f5e-49c1-43a9-95cc-6522680dce27">
