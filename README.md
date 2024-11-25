@@ -8,22 +8,6 @@ The decentralized nature of the platform ensures the security of all financial t
 <br> 
 
 
-Deployment Link - [https://sih-crowdfunding.vercel.app/](https://raise-wise.vercel.app/)https://raise-wise.vercel.app/
+Deployment Link - https://raise-wise.vercel.app/
 <br>
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/a40e37f5-9c46-4735-b975-c0f396baf5d3)
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/059eeb8d-25e6-4100-9d12-96afaa2319a6)
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/32542128-59ab-42cc-acff-8c7028a3979f)
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/48ccc950-0b22-40a0-a18b-d0244c70e538)
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/0050b06e-1a96-4b60-a813-a58eeff0ca9e)
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/ed53a731-ff41-43dd-bcd1-5060d2eab17f)
-<br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/3d4bd23f-fa89-4a62-846a-6a793175efe7)
 
-
-# Crowdfunding
